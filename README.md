@@ -8,6 +8,9 @@
 
 ![](ezgif.com-gif-maker%20(1).gif)
 
-**Real demo on 8051 board***
+**Real demo on 8051 board**
 
 ![](ezgif.com-gif-maker%20(2)%20(1).gif)
+
+**Documentation**
+![Doc](https://docs.google.com/document/d/17mxGD-AzGvFEpTYbPtDfMxg_kXuLDENSonByalsm7p4/edit)
